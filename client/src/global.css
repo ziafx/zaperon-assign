@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-open-sans: "Open Sans";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslategray: #0b3558;
+  --color-slateblue: #003fb9;
+}
